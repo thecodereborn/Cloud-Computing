@@ -1,0 +1,13 @@
+Eucalyptus : Elastic Utility Computing Architecture Linking your Program To Useful System
+Eucalyptus is paid and open-source computer software for building Amazon Web Services (AWS)-compatible private and hybrid cloud computing environments, originally developed by the company Eucalyptus Systems. 
+Goals for Eucalyptus
+    1. Foster greater understanding and uptake of cloud computing
+    2. Homogenize local IT environment with Public Clouds
+    3. Provide a basic software development platform for the open source community
+ Not designed as a replacement technology for AWS or any other Public Cloud service 
+    
+System Requirements
+   1.Physical Machines: All Eucalyptus services must be installed on physical servers, not virtual machines.
+   2.Each machine in your network needs a minimum of 160GB of storage. 
+   3.All Eucalyptus components must have at least one Network Interface Card (NIC) for a base-line deployment.
+    For better network isolation and scale,the CC should have two NICs (one facing the CLC/user network and one facing the NC/VM network).
