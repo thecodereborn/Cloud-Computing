@@ -1,0 +1,15 @@
+ Aneka: Manjasoft’s solution for developing, deploying and managing Cloud applications 
+ The Aneka based computing cloud is a collection of physical and virtualized resources connected through a network, which are either the Internet or a private intranet.
+ 
+ Architecture:
+    It is a Pure Platform as a service Framework.
+ 
+ Feature:
+ 1) simplify the development of applications (SDK); 
+ 2) porting existing applications to the Cloud;
+ 3) monitoring and managing the Aneka Cloud.
+  1.middleware for managing and scaling distributed applications 
+  2 applications – an extensible set of APIs for developing them 
+  
+ 
+ 
