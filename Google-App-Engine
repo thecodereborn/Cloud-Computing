@@ -1,0 +1,18 @@
+Google App Engine is a cloud computing technology for hosting web applications in Google-managed data centers.
+Google App Engine makes it easy to build and deploy an application that runs reliably even under heavy load and with large amounts of data. 
+Goals for GAE:
+   1. Zero to sixty: Scale your app automatically without worrying about managing machines.
+   2. Supercharged APIs: Supercharge your app with services such as Task Queue, XMPP, and Cloud SQL, all powered by the same infrastructure that powers the Google services you use every day.
+   3. You're in control: Manage your application with a simple, web-based dashboard allowing you to customize your app's performance.
+
+Architecture:
+  Google App Engine is a Platform as a Service (PaaS) offering for Java, Python, Go and PHP in its standard environment. 
+
+
+It includes the following features:
+
+  Persistent storage with queries, sorting, and transactions.
+  Automatic scaling and load balancing.
+  Asynchronous task queues for performing work outside the scope of a request.
+  Scheduled tasks for triggering events at specified times or regular intervals.
+  Integration with other Google cloud services and APIs.
