@@ -1,5 +1,5 @@
 
-                                    Apache Hadoop
+                                    
 
 Introduction:-   Amazon Web Services (AWS) started to offer IT services to the market in the form of web services, which is nowadays known as cloud computing. 
                   With this cloud, we need not plan for servers and other IT infrastructure which takes up much of time in advance.
@@ -11,7 +11,7 @@ ARchitecture:
   We will discuss these in detail in AWS Products section. Following is the diagrammatic representation of the architecture.
   
 System Requirements: - 
-OS:- Windows, Linux, Mac Os.
+OS:- Windows, Linux, Mac Os. It is a web based service.
 
 Services: - 
 Load Balancing
