@@ -9,6 +9,10 @@ Architecture:
   Google App Engine is a Platform as a Service (PaaS) offering for Java, Python, Go and PHP in its standard environment. 
 
 
+System Requirements
+OS:- Windows, Linux, Mac Os.
+
+
 It includes the following features:
 
   Persistent storage with queries, sorting, and transactions.
@@ -16,3 +20,8 @@ It includes the following features:
   Asynchronous task queues for performing work outside the scope of a request.
   Scheduled tasks for triggering events at specified times or regular intervals.
   Integration with other Google cloud services and APIs.
+
+WORKING:
+ Applications are sandboxed and run across multiple servers. 
+ App Engine offers automatic scaling for web applications—as the number of requests increases for an application, 
+ App Engine automatically allocates more resources for the web application to handle the additional demand.
