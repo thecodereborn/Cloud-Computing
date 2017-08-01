@@ -1,10 +1,24 @@
 Eucalyptus : Elastic Utility Computing Architecture Linking your Program To Useful System
 Eucalyptus is paid and open-source computer software for building Amazon Web Services (AWS)-compatible private and hybrid cloud computing environments, originally developed by the company Eucalyptus Systems. 
+
+
 Goals for Eucalyptus
     1. Foster greater understanding and uptake of cloud computing
     2. Homogenize local IT environment with Public Clouds
     3. Provide a basic software development platform for the open source community
  Not designed as a replacement technology for AWS or any other Public Cloud service 
+ 
+ Eucalyptus features include:
+
+    Supports both Linux and Windows virtual machines (VMs).
+    Application program interface- (API) compatible with Amazon EC2 platform.
+    Compatible with Amazon Web Services (AWS) and Simple Storage Service (S3).
+    Works with multiple hypervisors including VMware, Xen and KVM.
+    Can be installed and deployed from source code or DEB and RPM packages.
+    Internal processes communications are secured through SOAP and WS-Security.
+    Multiple clusters can be virtualized as a single cloud.
+    Administrative features such as user and group management and reports.
+
     
 System Requirements
    1.Physical Machines: All Eucalyptus services must be installed on physical servers, not virtual machines.
