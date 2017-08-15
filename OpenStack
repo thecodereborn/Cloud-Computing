@@ -1,0 +1,38 @@
+--------------------------------------OPENSTACK--------------------------------------------
+
+1.Introduction : 
+
+OpenStack is a cloud operating system that controls large pools of compute, storage, and networking resources throughout a datacenter, 
+all managed through a dashboard that gives administrators control while empowering their users to provision resources through
+a web interface.
+
+
+2.Architecture :  mostly deployed as infrastructure-as-a-service (IaaS), whereby virtual servers and other resources are made available
+                to customers
+                
+3.Services and components : 
+  3.1	Compute (Nova)
+  3.2	Networking (Neutron)
+  3.3	Block storage (Cinder)
+  3.4	Identity (Keystone)
+  3.5	Image (Glance)
+  3.6	Object storage (Swift)
+  3.7	Dashboard (Horizon)
+  3.8	Orchestration (Heat)
+  3.9	Workflow (Mistral)
+  3.10	Telemetry (Ceilometer)
+  3.11	Database (Trove)
+  3.12	Elastic map reduce (Sahara)
+  3.13	Bare metal (Ironic)
+  3.14	Messaging (Zaqar)
+  3.15	Shared file system (Manila)
+  3.16	DNS (Designate)
+  3.17	Search (Searchlight)
+  3.18	Key manager (Barbican)
+  
+  Summary : 
+        • Free and open-source cloud-computing software platform 
+        • Provides services for managing a Cloud environment on the fly.
+        • Consists of a group of interrelated projects that control pools of processing, storage, and networking resources
+        • Provides users methods and support to deploy virtual  machines in a remote environment.
+        • State in OpenStack is maintained in centrally managedrelational database (MySQL or MariaDB). 
