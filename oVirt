@@ -1,0 +1,34 @@
+------------------------------------------oVirt-----------------------------------------
+
+Introduction :    oVirt is free, open-source virtualization management platform. 
+                  It was founded by Red Hat as a community project on which Red Hat Enterprise Virtualization is based.
+                  oVirt manages virtual machines, storage and virtualized networks
+                  oVirt is a virtualization platform with an easy-to-use web interface.
+                  oVirt is powered by the Open Source you know - KVM on Linux.
+   
+Infrastructure :      oVirt consists of two basic components, oVirt engine and oVirt node.
+                       
+oVirt engine is running on top of WildFly (former JBoss) application server. 
+Frontend can be accessed through webadmin portal for administration, or a 
+user portal with privileges and features that can be fine tuned
+
+oVirt node is a server running RHEL, CentOS, Fedora or experimentally Debian, with KVM hypervisor enabled and a VDSM 
+(Virtual Desktop and Server Manager) daemon written in Python. Management 
+of resources initiated from webadmin portal are sent through the engine backend that issues appropriate calls to the VDSM daemon
+       
+System Requirements : 
+  oVirt engine can be installed on a standalone server, or can be hosted on a cluster of nodes themselves inside a 
+  virtual machine (self-hosted engine). Self-hosted engine can be manually installed or automatically deployed via virtual appliance.[2]
+
+       
+Services :  
+
+Virtual machine management enables selecting high availability priority, live migration, live snapshots, cloning virtual machines 
+from snapshots, creating virtual machine templates, using cloud-init for automated configuration during provisioning and 
+deployment of virtual machines. Supported guest operating systems include GNU/Linux, Microsoft Windows and FreeBSD.
+
+Management features for compute resources include CPU pinning, defining NUMA topology, 
+enabling kernel same-page merging, memory over-provisioning, HA VM reservation etc.
+
+
+
