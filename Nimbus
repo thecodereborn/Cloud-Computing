@@ -1,0 +1,30 @@
+---------------------------------------------NIMBUS--------------------------------------
+
+Introduction : 
+          Nimbus Platform is an integrated set of tools that deliver the power and versatility of infrastructure clouds to scientific users. 
+          Nimbus Platform allows you to combine Nimbus, OpenStack, Amazon, and other clouds.
+     
+     
+Infrastructure : 
+           
+Nimbus Infrastructure is an open source EC2/S3-compatible Infrastructure-as-a-Service implementation specifically
+targeting features of interest to the scientific community such as support for proxy credentials, batch schedulers, best-effort allocations and others.
+
+
+Requirements : 
+    Xen 3.x
+    Kernel-based Virtual Machine
+    Java 1.5+
+    Python (2.4+)
+    Linux kernel's Netfilter and ebtables for a bridging firewall
+    DHCP server
+    
+Services provided :   
+
+    Phantom is a service that provides auto-scaling and high availability for 
+    collections of resources deployed over multiple IaaS cloud providers allowing users to develop scalable and reliable application
+    
+    The Context Broker is a service that allows clients to coordinate large virtual cluster launches automatically and repeatably
+    
+    cloudinit.d is a tool for launching, controlling, and monitoring cloud applications. If the application is simple or complex, single cloud or multi-cloud, VM based or 
+    bare metal, or any combination of the above, cloudinit.d is designed to make the management and coordination of that application easy.
