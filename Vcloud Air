@@ -1,0 +1,28 @@
+-------------------------------------------VCloud Air------------------------------------------------
+
+Introduction :  vCloud Air is a public cloud computing service built on vSphere from VMware. 
+       vCloud Air is a secure public cloud platform offering compute, storage, networking, disaster recovery, and more.
+       
+Infrastructure :  
+      Air has three "infrastructure as a service" (IaaS) subscription service types: dedicated cloud, 
+      virtual private cloud, and disaster recovery. vCloud Air also offers a pay-as-you-go service named Virtual Private Cloud OnDemand
+
+Configuration :
+
+  The most basic configuration includes a virtual machine with 1GB RAM, 1 vCPU and 20GB SSD storage at $0.07 / hour.
+  Currently the service offers the choices of these three operating systems:
+      CentOS
+      Microsoft Windows Server Standard Edition
+      Ubuntu
+
+
+SERVICES 
+
+Dedicated Cloud
+ vCloud Air Dedicated Cloud is a single-tenant, physically isolated IaaS platform with a dedicated cloud management track. It’s your own private cloud instance in the public cloud.
+
+Virtual Private Cloud
+ vCloud Air Virtual Private Cloud is a multi-tenant, logically isolated core compute service that lives on shared infrastructure. Based on VMware vSphere, it delivers high availability and fully private networking.
+
+Disaster Recovery
+ vCloud Air Disaster Recovery is a recovery-as-a-service offering. It provides simple, affordable protection in the cloud for your vSphere environment.
